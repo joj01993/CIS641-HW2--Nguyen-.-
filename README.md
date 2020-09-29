@@ -5,7 +5,8 @@
 ###Technical Background
 <details>
   <summary>See more detail!</summary>
-  - EDI Analsyt in Spectrum Health, QA analyst Intership in Spectrum Health
-  - Java, C#,database: Oracle, mySQL etc 
+  
+  <p>EDI Analsyt in Spectrum Health, QA analyst Intership in Spectrum Health<p/>
+  <p>Java, C#,database: Oracle, mySQL etc<p/>
 </details>
 ### [favorite meme ](https://www.kodifiretvstick.com/wp-content/uploads/2017/11/Kodi-Erro-Log-Tech-Support.jpg)
